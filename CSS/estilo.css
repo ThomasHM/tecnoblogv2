@@ -52,6 +52,8 @@ a:hover {
 	text-decoration: underline;
 }
 
+/****Utiliando a seleção dos links na area de cabeçalho****/
+
 #area-cabecalho a:link, #area-cabecalho a:visited {
 	color: #fff;
 	padding: 8px 12px;
